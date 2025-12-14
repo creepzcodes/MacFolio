@@ -423,10 +423,10 @@ const ABOUT_LOCATION = {
       subtitle: "Meet the Developer Behind the Code",
       image: "/images/adrian.jpg",
       description: [
-        "Hey! I’m Adrian 👋, a web developer who enjoys building sleek, interactive websites that actually work well.",
-        "I specialize in JavaScript, React, and Next.js—and I love making things feel smooth, fast, and just a little bit delightful.",
+        "Hey! I’m Jannik, a full-stack developer who enjoys building smart, sleek solutions that actually work well.",
+        "I specialize in JavaScript, Next.js, Java I love making things feel smooth, fast, and just a little bit delightful.",
         "I’m big on clean UI, good UX, and writing code that doesn’t need a search party to debug.",
-        "Outside of dev work, you'll find me tweaking layouts at 2AM, sipping overpriced coffee, or impulse-buying gadgets I absolutely convinced myself I needed 😅",
+        "Outside of dev work, you'll find me tweaking layouts at 2AM, sipping overpriced coffee, or impulse-buying gadgets I absolutely convinced myself I needed",
       ],
     },
   ],
